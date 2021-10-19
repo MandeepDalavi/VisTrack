@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#B202FD</headerColor>
+        <logo>Screenshot_20211019_172654</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>VisTrack</label>
+    <navType>Standard</navType>
+    <tabs>Park__c</tabs>
+    <tabs>Visit__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>VisTrack_UtilityBar</utilityBar>
+</CustomApplication>
